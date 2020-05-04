@@ -1,0 +1,19 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "selenium tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muka-robusta/selenium_tests_sample.git"
+  },
+  "author": "Ilya Savenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muka-robusta/selenium_tests_sample/issues"
+  },
+  "homepage": "https://github.com/muka-robusta/selenium_tests_sample#readme"
+}
